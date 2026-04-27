@@ -1,0 +1,7 @@
+alpha=float(input("Enter the first number: "))
+beta=float(input("Enter the second number: "))
+print("Addition: ",alpha+beta)
+print("Subtraction: ",alpha-beta)
+print("Multiplication: ",alpha*beta)
+print("Division: ",alpha/beta)
+print("Modulo: ",alpha%beta)
