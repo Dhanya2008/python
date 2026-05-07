@@ -14,14 +14,7 @@ place()
 
 
 
-
-
-
-
-
-
-
-
+ 
 #with parameter
 def prompt(qual,ref):
     if qual=="ug" and ref=="hr":

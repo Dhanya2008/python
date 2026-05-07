@@ -5,5 +5,5 @@ def debit(money=0,pos=0):
         print(money,"Withdraw")
         return balance[pos]
     else:print("Cannot be debited")
-bank=debit(50000,0)
+bank=debit(4000,0)
 print(bank,"Remaining Balance")
