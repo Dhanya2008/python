@@ -30,18 +30,18 @@
 # print(colors)
 
 #adding tuple to tuple
-# data=('Cat','Dog','dhanya')
-# data1=('aswathi',)
-# data+=data1
-# print(data)
+data=('Cat','Dog','dhanya')
+data1=('aswathi',)
+data+=data1
+print(data)
 
 # #loop tuple
-# a=('hi','hello','what')
-# for i in range(len(a)):
-#     print(a[i])
+a=('hi','hello','what')
+for i in range(len(a)):
+     print(a[i])
     
-# for i in a:
-#     print(a)
+for i in a:
+     print(a)
     
     
 #adding
