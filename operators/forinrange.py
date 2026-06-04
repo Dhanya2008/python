@@ -1,5 +1,5 @@
-#for hello in range(1,10):
-  #  print(hello)
+for hello in range(1,10):
+   print(hello)
   
   
 

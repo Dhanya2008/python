@@ -20,7 +20,7 @@ def prompt(qual,ref):
     if qual=="ug" and ref=="hr":
         print("You are in US based team")
     elif qual=="pg" and ref=="teamlead":
-        print("Yu are in Russian based team")
+        print("You are in Russian based team")
     else:
         print("You are hired")
 prompt("ug","hr")
