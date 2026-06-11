@@ -92,19 +92,24 @@
     
     
 #index error: list,tuple,array,str
-lst=[18,"Dhanya",23,43,45]
-tup=(43,44,3,11,"Shri")
-from array import *
-arr=array('f',[1,2,3,5,4,7,6,5,53,3])
-s="Viratkohli"
-print(lst[0],tup[3],arr[2],s[4])
-try:
-    index=int(input("Enter the index position: "))
-    print(lst[index],tup[index],arr[index],s[index])
-except IndexError as ierror:
-    print(ierror)
-    print("Index within",len(s))
-    index=int(input("Enter the index position: "))
-    print(lst[index],tup[index],arr[index],s[index])
-finally:
-    print("Program executed successfully")    
+# lst=[18,"Dhanya",23,43,45]
+# tup=(43,44,3,11,"Shri")
+# from array import *
+# arr=array('f',[1,2,3,5,4,7,6,5,53,3])
+# s="Viratkohli"
+# print(lst[0],tup[3],arr[2],s[4])
+# try:
+#     index=int(input("Enter the index position: "))
+#     print(lst[index],tup[index],arr[index],s[index])
+# except IndexError as ierror:
+#     print(ierror)
+#     print("Index within",len(s))
+#     index=int(input("Enter the index position: "))
+#     print(lst[index],tup[index],arr[index],s[index])
+# finally:
+#     print("Program executed successfully")    
+
+
+
+
+
